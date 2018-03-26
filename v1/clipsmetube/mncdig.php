@@ -1,0 +1,1 @@
+../mncdig.php
