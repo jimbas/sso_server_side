@@ -1,7 +1,4 @@
-# Server-side PHP Sample
+# Server-side PHP Sample - Forked
 
-This is MNC Digital Single Sign-On integration sample for Server-side in PHP.
+This is the fork-version of MNC Digital Single Sign-On - Server-side.
 
-Cheers,
-
-Jimbas
